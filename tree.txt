@@ -1,0 +1,66 @@
+MakNeebGame/
+├── assets/                      # Files for images, icons, and game resources
+│   ├── icon/                    # Various icons
+│   │   ├── closeButton.png      # 9,620 bytes, modified 02/28/2025 02:37 AM
+│   │   ├── ICONKMITL.png        # 1,239,533 bytes, modified 02/28/2025 01:44 AM
+│   │   ├── minimizeButton.png   # 8,069 bytes, modified 02/28/2025 02:36 AM
+│   │   └── resizeButton.png     # 108,519 bytes, modified 02/28/2025 02:46 AM
+│   ├── Rok/                     # Image files for the Rok piece
+│   │   └── Rok.png              # 4,055 bytes, modified 02/28/2025 01:08 AM
+│   ├── sound/
+│   │   ├── capture.mp3
+│   │   ├── move.mp3
+│   │   ├── start.mp3 # นอกสุด assets
+│   ├── background.jpg           # 59,601 bytes, modified 02/28/2025 07:01 PM
+│   ├── background1.jpg          # 89,542 bytes, modified 02/28/2025 07:10 PM
+│   └── background2.jpg          # 48,463 bytes, modified 02/28/2025 07:10 PM
+├── src/
+│   ├── board/                   # Manages the game board and rendering
+│   │   ├── Board.java           # 8x8 game board
+│   │   ├── Tile.java            # Represents a single tile on the board
+│   │   ├── Position.java        # Position class (x, y)
+│   │   └── MoveValidator.java   # Validates piece movements
+│   ├── pieces/                  # Category for game pieces (only Rok for now)
+│   │   ├── Piece.java           # Base class for pieces
+│   │   └── RokPiece.java        # Special piece (8 per side)
+│   ├── game/                    # Manages the overall game
+│   │   ├── Game.java            # Controls game loop and state
+│   │   ├── Player.java          # Represents a player
+│   │   ├── GameController.java  # Manages game play
+│   │   ├── RuleManager.java     # Enforces game rules
+│   │   └── TimerManager.java    # Manages player timers
+│   ├── main/                    # Entry point of the game
+│   │   ├── Main.java            # Main method - launches the game
+│   │   └── GameLauncher.java    # Launches GUI and starts the game
+│   ├── ui/                      # GUI rendering
+│   │   ├── GameFrame.java       # Main game window
+│   │   ├── GamePanel.java       # Game play area (includes Board)
+│   │   ├── InfoPanel.java       # Displays player time, score, game status
+│   │   └── StartScreen.java     # Start screen for the game (previously TitleBar.java)
+│   └── utils/                   # Utility classes
+│       ├── Constants.java       # Constants like colors, tile sizes
+│       ├── SoundManager.java    # Manages sound effects
+│       ├── ImageLoader.java     # Loads images
+│       ├── ResourceManager.java # Manages loading of resources (images, etc.)
+│       └── WindowResizer.java   # Handles window resizing
+├── test/                        # Files for testing (Unit Tests)
+│   ├── board/
+│   ├── game/
+│   └── pieces/
+└── README.md                
+
+
+Main.java
+└── GameLauncher.launch()
+    └── StartScreen (หน้าเริ่มต้นเกม)
+        ├── แสดงหน้าเมนูหลัก (เปลี่ยนภาพพื้นหลังอัตโนมัติ)
+        ├── ปุ่ม PLAY GAME → GameLauncher.startGame()
+        │   └── สร้าง GameFrame
+        │       ├── สร้าง Board (กระดาน)
+        │       ├── สร้าง GameController (ควบคุมเกม)
+        │       ├── สร้าง TimerManager (จับเวลา)
+        │       ├── สร้าง InfoPanel (แสดงข้อมูล)
+        │       └── startTimerUpdates() (อัพเดทเวลา)
+        │           └── InfoPanel.updateTimer() (แสดงเวลาผู้เล่น)
+        ├── ปุ่ม GAME RULES → showRules() (แสดงกฎการเล่น)
+        └── ปุ่ม EXIT GAME → System.exit(0) (ออกจากเกม)
