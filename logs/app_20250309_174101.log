@@ -1,0 +1,214 @@
+=== Application Started at Sun Mar 09 17:41:01 ICT 2025 ===
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\minimizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\resizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\closeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\background1.jpg
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\select.wav
+โหลดไฟล์เสียงสำเร็จ: select.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\move.wav
+โหลดไฟล์เสียงสำเร็จ: move.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\capture.wav
+โหลดไฟล์เสียงสำเร็จ: capture.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\start.wav
+โหลดไฟล์เสียงสำเร็จ: start.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\error.wav
+โหลดไฟล์เสียงสำเร็จ: error.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\victory.wav
+โหลดไฟล์เสียงสำเร็จ: victory.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\sound\SongGame.wav
+โหลดไฟล์เสียงสำเร็จ: SongGame.wav
+เล่นเสียงแบบวนซ้ำ: SongGame
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\AppIcon.png
+เล่นเสียง: select
+เล่นเสียง: select
+หยุดเสียง: SongGame
+เล่นเสียง: start
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\icon\AppIcon.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 4\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+เล่นเสียง: select
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Remaining times - White: 599s, Black: 600s
+  Total used times - White: 1s, Black: 0s
+DEBUG: Initializing timers with White=1s, Black=0s
+DEBUG: Adding move #1 with times - White used: 1s, Black used: 0s
+DEBUG: Move 1 time taken - White: 0s, Black: 0s
+White Time: 09:59 | Black Time: 09:59
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move time: 1
+  Remaining times - White: 598s, Black: 600s
+  Total used times - White: 2s, Black: 0s
+DEBUG: Adding move #2 with times - White used: 2s, Black used: 0s
+DEBUG: Move 2 time taken - White: 1s, Black: 0s
+White Time: 09:58 | Black Time: 09:59
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:59
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move time: 0
+  Remaining times - White: 596s, Black: 600s
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #3 with times - White used: 4s, Black used: 0s
+DEBUG: Move 3 time taken - White: 2s, Black: 0s
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:58
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:57
+White Time: 09:54 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move time: 4
+  Remaining times - White: 594s, Black: 600s
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #4 with times - White used: 6s, Black used: 0s
+DEBUG: Move 4 time taken - White: 2s, Black: 0s
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:56 | Black Time: 09:57
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:56 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move time: 0
+  Remaining times - White: 593s, Black: 600s
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #5 with times - White used: 7s, Black used: 0s
+DEBUG: Move 5 time taken - White: 1s, Black: 0s
+White Time: 09:56 | Black Time: 09:56
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:55
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:56 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move time: 7
+  Remaining times - White: 591s, Black: 600s
+  Total used times - White: 9s, Black: 0s
+DEBUG: Adding move #6 with times - White used: 9s, Black used: 0s
+DEBUG: Move 6 time taken - White: 2s, Black: 0s
+White Time: 09:55 | Black Time: 09:55
+เล่นเสียง: select
+White Time: 09:50 | Black Time: 10:00
+White Time: 09:50 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:55 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move time: 0
+  Remaining times - White: 590s, Black: 600s
+  Total used times - White: 10s, Black: 0s
+DEBUG: Adding move #7 with times - White used: 10s, Black used: 0s
+DEBUG: Move 7 time taken - White: 1s, Black: 0s
+White Time: 09:55 | Black Time: 09:54
+White Time: 09:49 | Black Time: 10:00
+White Time: 09:49 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:55 | Black Time: 09:54
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move time: 10
+  Remaining times - White: 589s, Black: 600s
+  Total used times - White: 11s, Black: 0s
+DEBUG: Adding move #8 with times - White used: 11s, Black used: 0s
+DEBUG: Move 8 time taken - White: 1s, Black: 0s
+White Time: 09:54 | Black Time: 09:54
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:53 | Black Time: 09:54
+White Time: 09:47 | Black Time: 10:00
+White Time: 09:47 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:52 | Black Time: 09:54
+White Time: 09:46 | Black Time: 10:00
+White Time: 09:46 | Black Time: 10:00
+เล่นเสียง: error
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:52 | Black Time: 09:54
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move time: 0
+  Remaining times - White: 586s, Black: 600s
+  Total used times - White: 14s, Black: 0s
+DEBUG: Adding move #9 with times - White used: 14s, Black used: 0s
+DEBUG: Move 9 time taken - White: 3s, Black: 0s
+White Time: 09:52 | Black Time: 09:53
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:52 | Black Time: 09:52
+White Time: 09:44 | Black Time: 10:00
+White Time: 09:44 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:52 | Black Time: 09:51
+White Time: 09:43 | Black Time: 10:00
+White Time: 09:43 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:52 | Black Time: 09:51
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move time: 14
+  Remaining times - White: 583s, Black: 600s
+  Total used times - White: 17s, Black: 0s
+DEBUG: Adding move #10 with times - White used: 17s, Black used: 0s
+DEBUG: Move 10 time taken - White: 3s, Black: 0s
+White Time: 09:51 | Black Time: 09:51
+White Time: 09:42 | Black Time: 10:00
+White Time: 09:42 | Black Time: 10:00
+White Time: 09:50 | Black Time: 09:51
+White Time: 09:41 | Black Time: 10:00
+White Time: 09:41 | Black Time: 10:00
+White Time: 09:49 | Black Time: 09:51
+White Time: 09:40 | Black Time: 10:00
+White Time: 09:40 | Black Time: 10:00
+White Time: 09:48 | Black Time: 09:51
+White Time: 09:39 | Black Time: 10:00
+White Time: 09:39 | Black Time: 10:00
+White Time: 09:47 | Black Time: 09:51
+White Time: 09:38 | Black Time: 10:00
+White Time: 09:38 | Black Time: 10:00
+White Time: 09:46 | Black Time: 09:51
+White Time: 09:37 | Black Time: 10:00
+White Time: 09:37 | Black Time: 10:00
+White Time: 09:45 | Black Time: 09:51
+White Time: 09:36 | Black Time: 10:00
+White Time: 09:36 | Black Time: 10:00
