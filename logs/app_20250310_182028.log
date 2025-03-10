@@ -1,0 +1,2264 @@
+=== Application Started at Mon Mar 10 18:20:28 ICT 2025 ===
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\minimizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\resizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\closeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background1.jpg
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\select.wav
+โหลดไฟล์เสียงสำเร็จ: select.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\move.wav
+โหลดไฟล์เสียงสำเร็จ: move.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\capture.wav
+โหลดไฟล์เสียงสำเร็จ: capture.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\start.wav
+โหลดไฟล์เสียงสำเร็จ: start.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\error.wav
+โหลดไฟล์เสียงสำเร็จ: error.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\victory.wav
+โหลดไฟล์เสียงสำเร็จ: victory.wav
+พบไฟล์ที่: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\sound\SongGame.wav
+โหลดไฟล์เสียงสำเร็จ: SongGame.wav
+เล่นเสียงแบบวนซ้ำ: SongGame
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\AppIcon.png
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+หยุดเสียง: SongGame
+เล่นเสียง: start
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\AppIcon.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 10:00 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 600s remaining, Black time 600s remaining
+  Total used times - White: 0s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 0s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 0s
+MOVE DATA: WHITE moved from (7,3) to (4,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 10:00 | Black Time: 09:59
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 10:00 | Black Time: 09:58
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 10:00 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 598s remaining, Black time 600s remaining
+  Total used times - White: 2s, Black: 0s
+DEBUG: Adding move #2 - White time: 2s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,4) to (4,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+เล่นเสียง: select
+White Time: 09:59 | Black Time: 09:58
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 7/1
+เล่นเสียง: capture
+White Time: 09:59 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #3 - White time: 3s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,5) to (4,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+=========================
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #4 - White time: 3s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,3) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 5/3
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #5 - White time: 4s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,3) to (0,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+Move 5: White d4->d8 (took 1s), Black d8->e8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+เล่นเสียง: select
+White Time: 09:58 | Black Time: 09:57
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #6 - White time: 5s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,1) to (0,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+Move 5: White d4->d8 (took 1s), Black d8->e8 (took 0s)
+Move 6: White d4->d8 (took 1s), Black b8->c8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 3/5
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #7 - White time: 5s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,1) to (0,1)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+Move 5: White d4->d8 (took 1s), Black d8->e8 (took 0s)
+Move 6: White d4->d8 (took 1s), Black b8->c8 (took 0s)
+Move 7: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:58 | Black Time: 09:56
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:58 | Black Time: 09:55
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 593s remaining, Black time 600s remaining
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #8 - White time: 7s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,5) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+Move 5: White d4->d8 (took 1s), Black d8->e8 (took 0s)
+Move 6: White d4->d8 (took 1s), Black b8->c8 (took 0s)
+Move 7: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 8: White b1->b8 (took 2s), Black f8->e8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 1/7
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 593s remaining, Black time 600s remaining
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #9 - White time: 7s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,5) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d4 (took 0s), Black -->- (took 0s)
+Move 2: White d1->d4 (took 2s), Black e8->e4 (took 0s)
+Move 3: White f1->f4 (took 1s), Black e8->e4 (took 0s)
+Move 4: White f1->f4 (took 0s), Black d8->e8 (took 0s)
+Move 5: White d4->d8 (took 1s), Black d8->e8 (took 0s)
+Move 6: White d4->d8 (took 1s), Black b8->c8 (took 0s)
+Move 7: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 8: White b1->b8 (took 2s), Black f8->e8 (took 0s)
+Move 9: White f4->f8 (took 0s), Black f8->e8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=1
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: WHITE
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+เล่นเสียง: error
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 598s remaining, Black time 600s remaining
+  Total used times - White: 2s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 2s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 2s
+MOVE DATA: WHITE moved from (7,4) to (5,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:58 | Black Time: 09:59
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:58 | Black Time: 09:57
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #2 - White time: 5s, Black time: 0s
+White moved and took: 3s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,4) to (1,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #3 - White time: 5s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,4) to (5,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:58 | Black Time: 09:56
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 6/2, Black: 8/0
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 594s remaining, Black time 600s remaining
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #4 - White time: 6s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (1,4) to (7,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=6, Black=8
+Remaining pieces: White=6, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:56
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:56 | Black Time: 09:56
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:55 | Black Time: 09:56
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:54 | Black Time: 09:56
+White Time: 09:50 | Black Time: 10:00
+White Time: 09:50 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 09:56
+White Time: 09:49 | Black Time: 10:00
+White Time: 09:49 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:53 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 589s remaining, Black time 600s remaining
+  Total used times - White: 11s, Black: 0s
+DEBUG: Adding move #5 - White time: 11s, Black time: 0s
+White moved and took: 5s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,6) to (7,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+=========================
+Remaining pieces: White=6, Black=8
+Remaining pieces: White=6, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 09:55
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 09:54
+เล่นเสียง: select
+White Time: 09:47 | Black Time: 10:00
+White Time: 09:47 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 09:53
+InfoPanel: Updating piece count - White: 4/4, Black: 8/0
+เล่นเสียง: capture
+White Time: 09:53 | Black Time: 09:53
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 587s remaining, Black time 600s remaining
+  Total used times - White: 13s, Black: 0s
+DEBUG: Adding move #6 - White time: 13s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,6) to (7,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=4, Black=8
+Remaining pieces: White=4, Black=8
+White Time: 09:46 | Black Time: 10:00
+White Time: 09:46 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 09:53
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 09:53
+White Time: 09:44 | Black Time: 10:00
+White Time: 09:44 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:50 | Black Time: 09:53
+White Time: 09:43 | Black Time: 10:00
+White Time: 09:43 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:50 | Black Time: 09:53
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 583s remaining, Black time 600s remaining
+  Total used times - White: 17s, Black: 0s
+DEBUG: Adding move #7 - White time: 17s, Black time: 0s
+White moved and took: 4s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,2) to (7,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+=========================
+Remaining pieces: White=4, Black=8
+Remaining pieces: White=4, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:50 | Black Time: 09:52
+White Time: 09:42 | Black Time: 10:00
+White Time: 09:42 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:50 | Black Time: 09:51
+White Time: 09:41 | Black Time: 10:00
+White Time: 09:41 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 2/6, Black: 8/0
+เล่นเสียง: capture
+White Time: 09:50 | Black Time: 09:51
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 581s remaining, Black time 600s remaining
+  Total used times - White: 19s, Black: 0s
+DEBUG: Adding move #8 - White time: 19s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,2) to (7,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+Move 8: White c1->d1 (took 2s), Black c8->c1 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=2, Black=8
+Remaining pieces: White=2, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:49 | Black Time: 09:51
+White Time: 09:40 | Black Time: 10:00
+White Time: 09:40 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:48 | Black Time: 09:51
+White Time: 09:39 | Black Time: 10:00
+White Time: 09:39 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:47 | Black Time: 09:51
+White Time: 09:38 | Black Time: 10:00
+White Time: 09:38 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:46 | Black Time: 09:51
+White Time: 09:37 | Black Time: 10:00
+White Time: 09:37 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:45 | Black Time: 09:51
+White Time: 09:36 | Black Time: 10:00
+White Time: 09:36 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:45 | Black Time: 09:51
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=1
+  Using last black move data
+  Timer state: White time 576s remaining, Black time 600s remaining
+  Total used times - White: 24s, Black: 0s
+DEBUG: Adding move #9 - White time: 24s, Black time: 0s
+White moved and took: 5s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,0) to (7,1)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+Move 8: White c1->d1 (took 2s), Black c8->c1 (took 0s)
+Move 9: White a1->b1 (took 5s), Black c8->c1 (took 0s)
+=========================
+Remaining pieces: White=2, Black=8
+Remaining pieces: White=2, Black=8
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:45 | Black Time: 09:50
+เล่นเสียง: move
+White Time: 09:45 | Black Time: 09:50
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 576s remaining, Black time 600s remaining
+  Total used times - White: 24s, Black: 0s
+DEBUG: Adding move #10 - White time: 24s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (7,2) to (6,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+Move 8: White c1->d1 (took 2s), Black c8->c1 (took 0s)
+Move 9: White a1->b1 (took 5s), Black c8->c1 (took 0s)
+Move 10: White a1->b1 (took 0s), Black c1->c2 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=2, Black=8
+Remaining pieces: White=2, Black=8
+White Time: 09:35 | Black Time: 10:00
+White Time: 09:35 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:45 | Black Time: 09:50
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 575s remaining, Black time 600s remaining
+  Total used times - White: 25s, Black: 0s
+DEBUG: Adding move #11 - White time: 25s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,3) to (7,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+Move 8: White c1->d1 (took 2s), Black c8->c1 (took 0s)
+Move 9: White a1->b1 (took 5s), Black c8->c1 (took 0s)
+Move 10: White a1->b1 (took 0s), Black c1->c2 (took 0s)
+Move 11: White d3->d1 (took 1s), Black c1->c2 (took 0s)
+=========================
+Remaining pieces: White=2, Black=8
+Remaining pieces: White=2, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:45 | Black Time: 09:49
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 0/8, Black: 8/0
+เล่นเสียง: capture
+White Time: 09:45 | Black Time: 09:49
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 574s remaining, Black time 600s remaining
+  Total used times - White: 26s, Black: 0s
+DEBUG: Adding move #12 - White time: 26s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (6,2) to (7,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 2s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 3s), Black e8->e7 (took 0s)
+Move 3: White e3->d3 (took 0s), Black e8->e7 (took 0s)
+Move 4: White e3->d3 (took 1s), Black e7->e1 (took 0s)
+Move 5: White g1->f1 (took 5s), Black e7->e1 (took 0s)
+Move 6: White g1->f1 (took 2s), Black g8->g1 (took 0s)
+Move 7: White c1->d1 (took 4s), Black g8->g1 (took 0s)
+Move 8: White c1->d1 (took 2s), Black c8->c1 (took 0s)
+Move 9: White a1->b1 (took 5s), Black c8->c1 (took 0s)
+Move 10: White a1->b1 (took 0s), Black c1->c2 (took 0s)
+Move 11: White d3->d1 (took 1s), Black c1->c2 (took 0s)
+Move 12: White d3->d1 (took 1s), Black c2->c1 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=0, Black=8
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: BLACK
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 599s remaining, Black time 600s remaining
+  Total used times - White: 1s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 1s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 1s
+MOVE DATA: WHITE moved from (7,3) to (5,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 599s remaining, Black time 600s remaining
+  Total used times - White: 1s, Black: 0s
+DEBUG: Adding move #2 - White time: 1s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,4) to (5,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 7/1
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 598s remaining, Black time 600s remaining
+  Total used times - White: 2s, Black: 0s
+DEBUG: Adding move #3 - White time: 2s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,5) to (5,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+=========================
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:58 | Black Time: 09:59
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #4 - White time: 3s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,3) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 5/3
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #5 - White time: 3s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,3) to (0,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+Move 5: White d3->d8 (took 0s), Black d8->e8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #6 - White time: 4s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,5) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+Move 5: White d3->d8 (took 0s), Black d8->e8 (took 0s)
+Move 6: White d3->d8 (took 1s), Black f8->e8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:58
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 3/5
+เล่นเสียง: capture
+White Time: 09:57 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #7 - White time: 5s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,5) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+Move 5: White d3->d8 (took 0s), Black d8->e8 (took 0s)
+Move 6: White d3->d8 (took 1s), Black f8->e8 (took 0s)
+Move 7: White f3->f8 (took 1s), Black f8->e8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:57
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:56
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: error
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:55
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 592s remaining, Black time 600s remaining
+  Total used times - White: 8s, Black: 0s
+DEBUG: Adding move #8 - White time: 8s, Black time: 0s
+White moved and took: 3s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,1) to (0,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+Move 5: White d3->d8 (took 0s), Black d8->e8 (took 0s)
+Move 6: White d3->d8 (took 1s), Black f8->e8 (took 0s)
+Move 7: White f3->f8 (took 1s), Black f8->e8 (took 0s)
+Move 8: White f3->f8 (took 3s), Black b8->c8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:55
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 1/7
+เล่นเสียง: capture
+White Time: 09:56 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 591s remaining, Black time 600s remaining
+  Total used times - White: 9s, Black: 0s
+DEBUG: Adding move #9 - White time: 9s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,1) to (0,1)
+==== MOVE HISTORY DUMP ====
+Move 1: White d1->d3 (took 1s), Black -->- (took 0s)
+Move 2: White d1->d3 (took 0s), Black e8->e3 (took 0s)
+Move 3: White f1->f3 (took 1s), Black e8->e3 (took 0s)
+Move 4: White f1->f3 (took 1s), Black d8->e8 (took 0s)
+Move 5: White d3->d8 (took 0s), Black d8->e8 (took 0s)
+Move 6: White d3->d8 (took 1s), Black f8->e8 (took 0s)
+Move 7: White f3->f8 (took 1s), Black f8->e8 (took 0s)
+Move 8: White f3->f8 (took 3s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 1s), Black b8->c8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=1
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: WHITE
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\minimizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\resizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\closeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background1.jpg
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+เล่นเสียงแบบวนซ้ำ: SongGame
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+เสียง: ปิด
+หยุดเสียงทั้งหมด
+White Time: 09:53 | Black Time: 10:00
+เสียง: เปิด
+เล่นเสียงแบบวนซ้ำ: SongGame
+ตั้งความดังเสียง SongGame: 1.0
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background2.jpg
+ตั้งความดังเสียง SongGame: 0.9
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.79999995
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.6999999
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.5999999
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.4999999
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.39999992
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.29999992
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.19999993
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.09999993
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.0
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.1
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.2
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.3
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.4
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.5
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+ตั้งความดังเสียง SongGame: 0.6
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.70000005
+เล่นเสียง: select
+ตั้งความดังเสียง SongGame: 0.8000001
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background2.jpg
+ตั้งความดังเสียง SongGame: 0.70000005
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background2.jpg
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background2.jpg
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+Dialog shown successfully
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+หยุดเสียง: SongGame
+เล่นเสียง: start
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\AppIcon.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: error
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 599s remaining, Black time 600s remaining
+  Total used times - White: 1s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 1s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 1s
+MOVE DATA: WHITE moved from (7,4) to (4,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:59 | Black Time: 09:59
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:59 | Black Time: 09:58
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #2 - White time: 3s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,5) to (4,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 7/1
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #3 - White time: 4s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,6) to (4,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+=========================
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #4 - White time: 4s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,4) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+White Time: 09:57 | Black Time: 09:58
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 5/3
+เล่นเสียง: capture
+White Time: 09:57 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #5 - White time: 5s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,4) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+Move 5: White e4->e8 (took 1s), Black e8->f8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:57
+เล่นเสียง: select
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 594s remaining, Black time 600s remaining
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #6 - White time: 6s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,2) to (0,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+Move 5: White e4->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e4->e8 (took 1s), Black c8->d8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:56 | Black Time: 09:57
+White Time: 09:53 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 3/5
+เล่นเสียง: capture
+White Time: 09:56 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 593s remaining, Black time 600s remaining
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #7 - White time: 7s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,2) to (0,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+Move 5: White e4->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e4->e8 (took 1s), Black c8->d8 (took 0s)
+Move 7: White c1->c8 (took 1s), Black c8->d8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:56
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:56 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 592s remaining, Black time 600s remaining
+  Total used times - White: 8s, Black: 0s
+DEBUG: Adding move #8 - White time: 8s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,6) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+Move 5: White e4->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e4->e8 (took 1s), Black c8->d8 (took 0s)
+Move 7: White c1->c8 (took 1s), Black c8->d8 (took 0s)
+Move 8: White c1->c8 (took 1s), Black g8->f8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 1/7
+เล่นเสียง: capture
+White Time: 09:56 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 592s remaining, Black time 600s remaining
+  Total used times - White: 8s, Black: 0s
+DEBUG: Adding move #9 - White time: 8s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,6) to (0,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e4 (took 1s), Black -->- (took 0s)
+Move 2: White e1->e4 (took 2s), Black f8->f4 (took 0s)
+Move 3: White g1->g4 (took 1s), Black f8->f4 (took 0s)
+Move 4: White g1->g4 (took 0s), Black e8->f8 (took 0s)
+Move 5: White e4->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e4->e8 (took 1s), Black c8->d8 (took 0s)
+Move 7: White c1->c8 (took 1s), Black c8->d8 (took 0s)
+Move 8: White c1->c8 (took 1s), Black g8->f8 (took 0s)
+Move 9: White g4->g8 (took 0s), Black g8->f8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=1
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: WHITE
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 10:00 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 600s remaining, Black time 600s remaining
+  Total used times - White: 0s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 0s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 0s
+MOVE DATA: WHITE moved from (7,4) to (5,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 10:00 | Black Time: 09:59
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 10:00 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 599s remaining, Black time 600s remaining
+  Total used times - White: 1s, Black: 0s
+DEBUG: Adding move #2 - White time: 1s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,5) to (5,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:59 | Black Time: 09:59
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 7/1
+เล่นเสียง: capture
+White Time: 09:59 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 598s remaining, Black time 600s remaining
+  Total used times - White: 2s, Black: 0s
+DEBUG: Adding move #3 - White time: 2s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,6) to (5,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+=========================
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:59 | Black Time: 09:58
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #4 - White time: 3s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,4) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=7
+Remaining pieces: White=8, Black=7
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 5/3
+เล่นเสียง: capture
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #5 - White time: 4s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,4) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+Move 5: White e3->e8 (took 1s), Black e8->f8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 596s remaining, Black time 600s remaining
+  Total used times - White: 4s, Black: 0s
+DEBUG: Adding move #6 - White time: 4s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,6) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+Move 5: White e3->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e3->e8 (took 0s), Black g8->f8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=5
+Remaining pieces: White=8, Black=5
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:58
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+InfoPanel: Updating piece count - White: 8/0, Black: 3/5
+เล่นเสียง: capture
+White Time: 09:57 | Black Time: 09:58
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #7 - White time: 5s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,6) to (0,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+Move 5: White e3->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e3->e8 (took 0s), Black g8->f8 (took 0s)
+Move 7: White g3->g8 (took 1s), Black g8->f8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:57
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 594s remaining, Black time 600s remaining
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #8 - White time: 6s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,2) to (0,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+Move 5: White e3->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e3->e8 (took 0s), Black g8->f8 (took 0s)
+Move 7: White g3->g8 (took 1s), Black g8->f8 (took 0s)
+Move 8: White g3->g8 (took 1s), Black c8->d8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=3
+Remaining pieces: White=8, Black=3
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:57
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 1/7
+เล่นเสียง: capture
+White Time: 09:56 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 593s remaining, Black time 600s remaining
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #9 - White time: 7s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,2) to (0,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White e1->e3 (took 0s), Black -->- (took 0s)
+Move 2: White e1->e3 (took 1s), Black f8->f3 (took 0s)
+Move 3: White g1->g3 (took 1s), Black f8->f3 (took 0s)
+Move 4: White g1->g3 (took 1s), Black e8->f8 (took 0s)
+Move 5: White e3->e8 (took 1s), Black e8->f8 (took 0s)
+Move 6: White e3->e8 (took 0s), Black g8->f8 (took 0s)
+Move 7: White g3->g8 (took 1s), Black g8->f8 (took 0s)
+Move 8: White g3->g8 (took 1s), Black c8->d8 (took 0s)
+Move 9: White c1->c8 (took 1s), Black c8->d8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=1
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: WHITE
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+GameController set, isWhiteTurn: true
+GameController: InfoPanel set
+InfoPanel: Updating piece count - White: 8/0, Black: 8/0
+GameController set, isWhiteTurn: true
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:59 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 10:00
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Timer state: White time 599s remaining, Black time 600s remaining
+  Total used times - White: 1s, Black: 0s
+DEBUG: Initializing timers with White=0s, Black=0s
+DEBUG: Adding move #1 - White time: 1s, Black time: 0s
+First move - initializing previous times to 0
+White moved and took: 1s
+MOVE DATA: WHITE moved from (7,5) to (5,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:59 | Black Time: 09:59
+White Time: 09:58 | Black Time: 10:00
+White Time: 09:58 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:59 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 598s remaining, Black time 600s remaining
+  Total used times - White: 2s, Black: 0s
+DEBUG: Adding move #2 - White time: 2s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,6) to (5,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:58 | Black Time: 09:59
+White Time: 09:57 | Black Time: 10:00
+White Time: 09:57 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:59
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 597s remaining, Black time 600s remaining
+  Total used times - White: 3s, Black: 0s
+DEBUG: Adding move #3 - White time: 3s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,7) to (4,7)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+=========================
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:58 | Black Time: 09:58
+White Time: 09:56 | Black Time: 10:00
+White Time: 09:56 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:58 | Black Time: 09:57
+White Time: 09:55 | Black Time: 10:00
+White Time: 09:55 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:58 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 595s remaining, Black time 600s remaining
+  Total used times - White: 5s, Black: 0s
+DEBUG: Adding move #4 - White time: 5s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,5) to (0,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=8
+Remaining pieces: White=8, Black=8
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:57 | Black Time: 09:57
+เล่นเสียง: select
+White Time: 09:54 | Black Time: 10:00
+White Time: 09:54 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 6/2
+เล่นเสียง: capture
+White Time: 09:57 | Black Time: 09:57
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 594s remaining, Black time 600s remaining
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #5 - White time: 6s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (5,5) to (0,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=6
+Remaining pieces: White=8, Black=6
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:57 | Black Time: 09:56
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 594s remaining, Black time 600s remaining
+  Total used times - White: 6s, Black: 0s
+DEBUG: Adding move #6 - White time: 6s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,3) to (0,4)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=6
+Remaining pieces: White=8, Black=6
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 8/0, Black: 4/4
+เล่นเสียง: capture
+White Time: 09:57 | Black Time: 09:56
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 593s remaining, Black time 600s remaining
+  Total used times - White: 7s, Black: 0s
+DEBUG: Adding move #7 - White time: 7s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,3) to (0,3)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=4
+Remaining pieces: White=8, Black=4
+White Time: 09:57 | Black Time: 09:55
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:57 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 592s remaining, Black time 600s remaining
+  Total used times - White: 8s, Black: 0s
+DEBUG: Adding move #8 - White time: 8s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,1) to (0,2)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=4
+Remaining pieces: White=8, Black=4
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:55
+InfoPanel: Updating piece count - White: 8/0, Black: 2/6
+เล่นเสียง: capture
+White Time: 09:56 | Black Time: 09:55
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 592s remaining, Black time 600s remaining
+  Total used times - White: 8s, Black: 0s
+DEBUG: Adding move #9 - White time: 8s, Black time: 0s
+White moved and took: 0s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,1) to (0,1)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+=========================
+Remaining pieces: White=8, Black=2
+Remaining pieces: White=8, Black=2
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:56 | Black Time: 09:54
+White Time: 09:50 | Black Time: 10:00
+White Time: 09:50 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:56 | Black Time: 09:54
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 590s remaining, Black time 600s remaining
+  Total used times - White: 10s, Black: 0s
+DEBUG: Adding move #10 - White time: 10s, Black time: 0s
+White moved and took: 2s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (5,6) to (5,5)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=2
+Remaining pieces: White=8, Black=2
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:55 | Black Time: 09:54
+White Time: 09:49 | Black Time: 10:00
+White Time: 09:49 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:55 | Black Time: 09:54
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 589s remaining, Black time 600s remaining
+  Total used times - White: 11s, Black: 0s
+DEBUG: Adding move #11 - White time: 11s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,7) to (4,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+Move 11: White h4->g4 (took 1s), Black g3->f3 (took 0s)
+=========================
+Remaining pieces: White=8, Black=2
+Remaining pieces: White=8, Black=2
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:55 | Black Time: 09:53
+เล่นเสียง: select
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:48 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:55 | Black Time: 09:53
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 588s remaining, Black time 600s remaining
+  Total used times - White: 12s, Black: 0s
+DEBUG: Adding move #12 - White time: 12s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (0,7) to (4,7)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+Move 11: White h4->g4 (took 1s), Black g3->f3 (took 0s)
+Move 12: White h4->g4 (took 1s), Black h8->h4 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=8, Black=2
+Remaining pieces: White=8, Black=2
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:54 | Black Time: 09:53
+White Time: 09:47 | Black Time: 10:00
+White Time: 09:47 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+เล่นเสียง: move
+White Time: 09:54 | Black Time: 09:53
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 587s remaining, Black time 600s remaining
+  Total used times - White: 13s, Black: 0s
+DEBUG: Adding move #13 - White time: 13s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (4,6) to (5,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+Move 11: White h4->g4 (took 1s), Black g3->f3 (took 0s)
+Move 12: White h4->g4 (took 1s), Black h8->h4 (took 0s)
+Move 13: White g4->g3 (took 1s), Black h8->h4 (took 0s)
+=========================
+Remaining pieces: White=8, Black=2
+Remaining pieces: White=8, Black=2
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:54 | Black Time: 09:52
+White Time: 09:46 | Black Time: 10:00
+White Time: 09:46 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 7/1, Black: 2/6
+เล่นเสียง: capture
+White Time: 09:54 | Black Time: 09:52
+DEBUG GameFrame.recordMove: Recording move for BLACK with timeSpent=0
+  Using last white move data
+  Timer state: White time 586s remaining, Black time 600s remaining
+  Total used times - White: 14s, Black: 0s
+DEBUG: Adding move #14 - White time: 14s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: BLACK moved from (4,7) to (5,7)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+Move 11: White h4->g4 (took 1s), Black g3->f3 (took 0s)
+Move 12: White h4->g4 (took 1s), Black h8->h4 (took 0s)
+Move 13: White g4->g3 (took 1s), Black h8->h4 (took 0s)
+Move 14: White g4->g3 (took 1s), Black h4->h3 (took 0s)
+=========================
+After BLACK move - ensuring timer is running
+Remaining pieces: White=7, Black=2
+Remaining pieces: White=7, Black=2
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 09:52
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+InfoPanel: Updating piece count - White: 7/1, Black: 0/8
+เล่นเสียง: capture
+White Time: 09:53 | Black Time: 09:52
+DEBUG GameFrame.recordMove: Recording move for WHITE with timeSpent=0
+  Using last black move data
+  Timer state: White time 585s remaining, Black time 600s remaining
+  Total used times - White: 15s, Black: 0s
+DEBUG: Adding move #15 - White time: 15s, Black time: 0s
+White moved and took: 1s
+Black moved and took: 0s
+MOVE DATA: WHITE moved from (7,6) to (5,6)
+==== MOVE HISTORY DUMP ====
+Move 1: White f1->f3 (took 1s), Black -->- (took 0s)
+Move 2: White f1->f3 (took 1s), Black g8->g3 (took 0s)
+Move 3: White h1->h4 (took 1s), Black g8->g3 (took 0s)
+Move 4: White h1->h4 (took 2s), Black f8->g8 (took 0s)
+Move 5: White f3->f8 (took 1s), Black f8->g8 (took 0s)
+Move 6: White f3->f8 (took 0s), Black d8->e8 (took 0s)
+Move 7: White d1->d8 (took 1s), Black d8->e8 (took 0s)
+Move 8: White d1->d8 (took 1s), Black b8->c8 (took 0s)
+Move 9: White b1->b8 (took 0s), Black b8->c8 (took 0s)
+Move 10: White b1->b8 (took 2s), Black g3->f3 (took 0s)
+Move 11: White h4->g4 (took 1s), Black g3->f3 (took 0s)
+Move 12: White h4->g4 (took 1s), Black h8->h4 (took 0s)
+Move 13: White g4->g3 (took 1s), Black h8->h4 (took 0s)
+Move 14: White g4->g3 (took 1s), Black h4->h3 (took 0s)
+Move 15: White g1->g3 (took 1s), Black h4->h3 (took 0s)
+=========================
+Remaining pieces: White=7, Black=0
+Game timer stopped
+Game over detected. Timer stopped.
+Game over! Winner: WHITE
+Game timer stopped
+เล่นเสียง: victory
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\minimizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\resizeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\closeButton.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\background1.jpg
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Users\rm\Desktop\OOP 2ed Semester\Mak Neeb Game 5\Java-OOP-CS30-KMITL\assets\Rok\Rok.png
+เล่นเสียงแบบวนซ้ำ: SongGame
+White Time: 09:34 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:45 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+เล่นเสียง: select
+เล่นเสียง: select
+White Time: 09:53 | Black Time: 10:00
+White Time: 09:52 | Black Time: 10:00
+White Time: 09:51 | Black Time: 10:00
+White Time: 09:34 | Black Time: 10:00
