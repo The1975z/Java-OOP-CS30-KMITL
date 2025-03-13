@@ -1,0 +1,30 @@
+=== Application Started at Thu Mar 13 01:53:37 GMT+07:00 2025 ===
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\icon\ICONKMITL.png
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\icon\minimizeButton.png
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\icon\resizeButton.png
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\icon\closeButton.png
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\background1.jpg
+โหลดไฟล์จาก: C:\Project OOP Final\OOP FINAL\src\main\..\..\assets\icon\ICONKMITL.png
+Exception in thread "AWT-EventQueue-0" java.lang.IllegalArgumentException: Width (0) and height (0) must be non-zero
+	at java.desktop/java.awt.image.ReplicateScaleFilter.<init>(ReplicateScaleFilter.java:102)
+	at java.desktop/java.awt.image.AreaAveragingScaleFilter.<init>(AreaAveragingScaleFilter.java:79)
+	at java.desktop/java.awt.Image.getScaledInstance(Image.java:177)
+	at utils.ResourceManager.loadImage(ResourceManager.java:87)
+	at utils.ResourceManager.loadIcon(ResourceManager.java:93)
+	at ui.BackgroundPanel.createContent(BackgroundPanel.java:128)
+	at ui.BackgroundPanel.<init>(BackgroundPanel.java:43)
+	at ui.StartScreen.<init>(StartScreen.java:55)
+	at main.GameLauncher.lambda$launch$0(GameLauncher.java:28)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
