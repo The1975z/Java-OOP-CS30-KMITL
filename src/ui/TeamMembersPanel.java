@@ -18,7 +18,7 @@ public class TeamMembersPanel extends JPanel {
 
     private final String[] members = {
         "Wiwat (PotterWW) - https://github.com/PotterWW",
-        "Roman Bichedi (defnotRM) - https://github.com/defnotRM",
+        "Roman Bechady (defnotRM) - https://github.com/defnotRM",
         "Akeaphap Waree (The1975z) - https://github.com/The1975z",
         "Chatchanok Tancharoen (412) - https://github.com/pokogummybear",
         "Anapat Danjiramontri (AnapatD) - https://github.com/AnapatD"
