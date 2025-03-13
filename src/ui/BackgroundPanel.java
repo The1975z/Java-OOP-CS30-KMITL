@@ -32,7 +32,22 @@ public class BackgroundPanel extends JPanel {
     private final Font BUTTON_FONT = new Font("Lato", Font.BOLD, 16); 
 
     private JButton timeButton;
-    private Timer timeUpdateTimer; 
+    private Timer timeUpdateTimer;
+    
+    private JLabel logoLabel;
+    private JLabel leftRokLabel;
+    private JLabel rightRokLabel;
+    private JLabel titleLabel;
+    private JLabel subtitleLabel;
+    private JButton playButton;
+    private JButton rulesButton;
+    private JButton teamButton;
+    private JButton exitButton;
+    private JPanel soundControlPanel;
+    private JLabel versionLabel;
+    private JButton soundToggleButton;
+    private JButton volumeUpButton;
+    private JButton volumeDownButton;
 
     public BackgroundPanel(StartScreen parent, List<String> backgroundPaths, int currentBackgroundIndex) {
         this.parent = parent;
@@ -42,6 +57,12 @@ public class BackgroundPanel extends JPanel {
         loadCurrentBackground();
         createContent();
         setupTimeDisplay(); 
+        
+        addComponentListener(new java.awt.event.ComponentAdapter() {
+            public void componentResized(java.awt.event.ComponentEvent evt) {
+                updateComponentPositions();
+            }
+        });
     }
 
     private void loadCurrentBackground() {
@@ -104,8 +125,8 @@ public class BackgroundPanel extends JPanel {
             g2d.setComposite(originalComposite);
         }
 
-        int panelWidth = getWidth() / 2;
-        int panelHeight = getHeight() * 3 / 4;
+        int panelWidth = Math.min(getWidth() / 2, 800);
+        int panelHeight = Math.min(getHeight() * 3 / 4, 900); 
         int panelX = (getWidth() - panelWidth) / 2;
         int panelY = (getHeight() - panelHeight) / 2;
 
@@ -116,9 +137,13 @@ public class BackgroundPanel extends JPanel {
         g2d.setColor(new Color(GOLD_ACCENT.getRed(), GOLD_ACCENT.getGreen(), GOLD_ACCENT.getBlue(), 120));
         g2d.draw(new RoundRectangle2D.Double(panelX + 5, panelY + 5, panelWidth - 10, panelHeight - 10, 30, 30));
 
-        g2d.setFont(COPYRIGHT_FONT);
+        float fontScale = Math.min(getWidth() / 1920f, getHeight() / 1080f);
+        Font scaledCopyrightFont = new Font(COPYRIGHT_FONT.getFamily(), COPYRIGHT_FONT.getStyle(), 
+                                           Math.max(10, (int)(COPYRIGHT_FONT.getSize() * fontScale)));
+        
+        g2d.setFont(scaledCopyrightFont);
         g2d.setColor(new Color(200, 200, 200, 180));
-        String copyright = "© 2025 Mak Neeb Game. All Rights Reserved. KMITL Computer Science.";
+        String copyright = "© 2025 Clamp War Game. All Rights Reserved. KMITL Computer Science.";
         FontMetrics fm = g2d.getFontMetrics();
         int textWidth = fm.stringWidth(copyright);
         g2d.drawString(copyright, (getWidth() - textWidth) / 2, getHeight() - 20);
@@ -128,45 +153,46 @@ public class BackgroundPanel extends JPanel {
         ImageIcon logoIcon = ResourceManager.loadIcon("icon/ICONKMITL.png", 140, 140);
         ImageIcon rokIcon = ResourceManager.loadIcon("Rok/Rok.png", 80, 80);
 
-        Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
-        int screenWidth = screenSize.width;
-        int screenHeight = screenSize.height;
-
-        int centerPanelWidth = screenWidth / 2;
-        int centerPanelHeight = screenHeight * 3 / 4;
-        int centerPanelX = (screenWidth - centerPanelWidth) / 2;
-        int centerPanelY = (screenHeight - centerPanelHeight) / 2 + 25;
+        int panelWidth = getWidth();
+        int panelHeight = getHeight();
+        
+        int centerPanelWidth = Math.min(panelWidth / 2, 800);
+        int centerPanelHeight = Math.min(panelHeight * 3 / 4, 900);
+        int centerPanelX = (panelWidth - centerPanelWidth) / 2;
+        int centerPanelY = (panelHeight - centerPanelHeight) / 2 + 25;
 
         if (logoIcon != null) {
-            JLabel logoLabel = new JLabel(logoIcon);
+            logoLabel = new JLabel(logoIcon);
             logoLabel.setBounds(centerPanelX + (centerPanelWidth - 140) / 2, centerPanelY + 40, 140, 140);
             add(logoLabel);
         }
 
         if (rokIcon != null) {
-            JLabel leftRokLabel = new JLabel(rokIcon);
+            leftRokLabel = new JLabel(rokIcon);
             leftRokLabel.setBounds(centerPanelX + 60, centerPanelY + 170, 80, 80);
             add(leftRokLabel);
 
-            JLabel rightRokLabel = new JLabel(rokIcon);
+            rightRokLabel = new JLabel(rokIcon);
             rightRokLabel.setBounds(centerPanelX + centerPanelWidth - 140, centerPanelY + 170, 80, 80);
             add(rightRokLabel);
         }
 
-        JLabel titleLabel = new JLabel("Clamp War", SwingConstants.CENTER);
+        titleLabel = new JLabel("Clamp War", SwingConstants.CENTER);
         titleLabel.setFont(new Font("Trajan Pro", Font.BOLD, 52));
         titleLabel.setForeground(GOLD_ACCENT);
         titleLabel.setBounds(centerPanelX, centerPanelY + 190, centerPanelWidth, 60);
         add(titleLabel);
 
-        JLabel subtitleLabel = new JLabel("Custom Go Game with 8 Rok Pieces", SwingConstants.CENTER);
+        subtitleLabel = new JLabel("Custom Go Game with 8 Rok Pieces", SwingConstants.CENTER);
         subtitleLabel.setFont(new Font("Lato", Font.PLAIN, 18));
         subtitleLabel.setForeground(TEXT_COLOR);
         subtitleLabel.setBounds(centerPanelX, centerPanelY + 250, centerPanelWidth, 30);
         add(subtitleLabel);
 
-        JButton playButton = parent.createStyledButton("PLAY GAME");
-        playButton.setBounds(centerPanelX + (centerPanelWidth - 300) / 2, centerPanelY + 320, 300, 60);
+        int buttonWidth = Math.min(300, centerPanelWidth - 100);
+        
+        playButton = parent.createStyledButton("PLAY GAME");
+        playButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2, centerPanelY + 320, buttonWidth, 60);
         playButton.addActionListener(e -> {
             SoundManager.getInstance().stopSound("SongGame");
             SoundManager.getInstance().playSound("start");
@@ -175,27 +201,27 @@ public class BackgroundPanel extends JPanel {
         });
         add(playButton);
 
-        JButton rulesButton = parent.createStyledButton("GAME RULES");
-        rulesButton.setBounds(centerPanelX + (centerPanelWidth - 300) / 2, centerPanelY + 400, 300, 60);
+        rulesButton = parent.createStyledButton("GAME RULES");
+        rulesButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2, centerPanelY + 400, buttonWidth, 60);
         rulesButton.addActionListener(e -> parent.showRules());
         add(rulesButton);
 
-        JButton teamButton = parent.createStyledButton("TEAM MEMBERS");
-        teamButton.setBounds(centerPanelX + (centerPanelWidth - 300) / 2, centerPanelY + 480, 300, 60);
+        teamButton = parent.createStyledButton("TEAM MEMBERS");
+        teamButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2, centerPanelY + 480, buttonWidth, 60);
         teamButton.addActionListener(e -> TeamMembersPanel.showTeamMembersDialog(this, BACKGROUND_COLOR, GOLD_ACCENT, TEXT_COLOR));
         add(teamButton);
         
-        JButton exitButton = parent.createStyledButton("EXIT GAME");
-        exitButton.setBounds(centerPanelX + (centerPanelWidth - 300) / 2, centerPanelY + 560, 300, 60);
+        exitButton = parent.createStyledButton("EXIT GAME");
+        exitButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2, centerPanelY + 560, buttonWidth, 60);
         exitButton.addActionListener(e -> System.exit(0));
         add(exitButton);
 
-        JPanel soundControlPanel = new JPanel();
+        soundControlPanel = new JPanel();
         soundControlPanel.setLayout(null);
         soundControlPanel.setOpaque(false);
         soundControlPanel.setBounds(centerPanelX + centerPanelWidth - 240, centerPanelY + 40, 220, 60);
         
-        JButton soundToggleButton = parent.createSoundButton(parent.soundEnabled ? "SOUND ON" : "SOUND OFF", 120, 50);
+        soundToggleButton = parent.createSoundButton(parent.soundEnabled ? "SOUND ON" : "SOUND OFF", 120, 50);
         soundToggleButton.setBounds(0, 0, 120, 50);
         soundToggleButton.addActionListener(e -> {
             parent.soundEnabled = !parent.soundEnabled;
@@ -211,7 +237,7 @@ public class BackgroundPanel extends JPanel {
             parent.blinkButton(soundToggleButton);
         });
         
-        JButton volumeUpButton = parent.createSoundButton("+", 50, 25);
+        volumeUpButton = parent.createSoundButton("+", 50, 25);
         volumeUpButton.setBounds(130, 0, 50, 25);
         volumeUpButton.addActionListener(e -> {
             if (parent.currentVolume < 1.0f) {
@@ -223,7 +249,7 @@ public class BackgroundPanel extends JPanel {
             }
         });
         
-        JButton volumeDownButton = parent.createSoundButton("-", 50, 25);
+        volumeDownButton = parent.createSoundButton("-", 50, 25);
         volumeDownButton.setBounds(130, 30, 50, 25);
         volumeDownButton.addActionListener(e -> {
             if (parent.currentVolume > 0.0f) {
@@ -239,7 +265,7 @@ public class BackgroundPanel extends JPanel {
         soundControlPanel.add(volumeDownButton);
         add(soundControlPanel);
 
-        JLabel versionLabel = new JLabel("Version 1.0.0", SwingConstants.CENTER);
+        versionLabel = new JLabel("Version 1.0.0", SwingConstants.CENTER);
         versionLabel.setFont(new Font("Lato", Font.PLAIN, 26));
         versionLabel.setForeground(new Color(150, 150, 150));
         versionLabel.setBounds(centerPanelX, centerPanelY + centerPanelHeight - 30, centerPanelWidth, 70); 
@@ -255,36 +281,143 @@ public class BackgroundPanel extends JPanel {
         timeButton.setBorderPainted(false);
         timeButton.setOpaque(true);
         timeButton.setPreferredSize(new Dimension(200, 40));
-
+    
         timeButton.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseEntered(MouseEvent e) {
                 timeButton.setBackground(BUTTON_HOVER);
             }
-
+    
             @Override
             public void mouseExited(MouseEvent e) {
                 timeButton.setBackground(BUTTON_COLOR);
             }
         });
-
-        Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
-        int screenWidth = screenSize.width;
-        int centerPanelWidth = screenWidth / 2;
-        int centerPanelX = (screenWidth - centerPanelWidth) / 2;
-        int centerPanelHeight = screenSize.height * 3 / 4;
-        int centerPanelY = (screenSize.height - centerPanelHeight) / 2 + 25;
-
+    
+        int panelWidth = getWidth();
+        int panelHeight = getHeight();
+        
+        int centerPanelWidth = Math.min(panelWidth / 2, 800);
+        int centerPanelHeight = Math.min(panelHeight * 3 / 4, 900);
+        int centerPanelX = (panelWidth - centerPanelWidth) / 2;
+        int centerPanelY = (panelHeight - centerPanelHeight) / 2 + 25;
+    
         timeButton.setBounds(centerPanelX + centerPanelWidth - 220, centerPanelY + centerPanelHeight - 80, 200, 40);
         add(timeButton);
-
+    
         timeUpdateTimer = new Timer(1000, e -> updateTime());
         timeUpdateTimer.start();
     }
-
     private void updateTime() {
         SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss"); 
         String currentTime = sdf.format(new Date());
         timeButton.setText("Current Time: " + currentTime);
+    }
+    
+    private void updateComponentPositions() {
+        int panelWidth = getWidth();
+        int panelHeight = getHeight();
+        
+        int centerPanelWidth = Math.min(panelWidth / 2, 800);
+        int centerPanelHeight = Math.min(panelHeight * 3 / 4, 900);
+        int centerPanelX = (panelWidth - centerPanelWidth) / 2;
+        int centerPanelY = (panelHeight - centerPanelHeight) / 2 + 25;
+        
+        float scaleX = (float) panelWidth / 1920;
+        float scaleY = (float) panelHeight / 1080;
+        float scale = Math.min(scaleX, scaleY);
+        
+
+        if (logoLabel != null) {
+            int logoSize = (int) (140 * scale);
+            logoSize = Math.max(60, logoSize); 
+            logoLabel.setBounds(centerPanelX + (centerPanelWidth - logoSize) / 2,  centerPanelY + (int)(40 * scale),  logoSize, logoSize);
+        }
+        
+        if (leftRokLabel != null && rightRokLabel != null) {
+            int rokSize = (int) (80 * scale);
+            rokSize = Math.max(40, rokSize);
+            
+            leftRokLabel.setBounds(centerPanelX + (int)(60 * scale),  centerPanelY + (int)(170 * scale),  rokSize, rokSize);
+            
+            rightRokLabel.setBounds(centerPanelX + centerPanelWidth - rokSize - (int)(60 * scale),  centerPanelY + (int)(170 * scale),  rokSize, rokSize);
+        }
+        
+        if (titleLabel != null) {
+            int titleFontSize = (int) (52 * scale);
+            titleFontSize = Math.max(24, titleFontSize); 
+            titleLabel.setFont(new Font("Trajan Pro", Font.BOLD, titleFontSize));
+            titleLabel.setBounds(centerPanelX,  centerPanelY + (int)(190 * scale),  centerPanelWidth, (int)(60 * scale));
+        }
+        if (timeButton != null) {
+            int timeButtonWidth = (int) (200 * scale);
+            int timeButtonHeight = (int) (40 * scale);
+            timeButtonHeight = Math.max(30, timeButtonHeight);
+            
+            timeButton.setBounds(centerPanelX + centerPanelWidth - timeButtonWidth - (int)(20 * scale), 
+                                centerPanelY + centerPanelHeight - timeButtonHeight - (int)(40 * scale), 
+                                timeButtonWidth, timeButtonHeight);
+            
+            int timeFontSize = (int) (BUTTON_FONT.getSize() * scale);
+            timeFontSize = Math.max(12, timeFontSize);
+            timeButton.setFont(new Font(BUTTON_FONT.getFamily(), BUTTON_FONT.getStyle(), timeFontSize));
+        }
+        if (subtitleLabel != null) {
+            int subtitleFontSize = (int) (18 * scale);
+            subtitleFontSize = Math.max(12, subtitleFontSize); 
+            subtitleLabel.setFont(new Font("Lato", Font.PLAIN, subtitleFontSize));
+            subtitleLabel.setBounds(centerPanelX,  centerPanelY + (int)(250 * scale),  centerPanelWidth, (int)(30 * scale));
+        }
+        
+        int buttonWidth = Math.min(300, centerPanelWidth - 100);
+        int buttonHeight = (int) (60 * scale);
+        buttonHeight = Math.max(40, buttonHeight); 
+        
+        if (playButton != null) {
+            playButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2,  centerPanelY + (int)(320 * scale),  buttonWidth, buttonHeight);
+        }
+        
+        if (rulesButton != null) {
+            rulesButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2,  centerPanelY + (int)(400 * scale),  buttonWidth, buttonHeight);
+        }
+        
+        if (teamButton != null) {
+            teamButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2,  centerPanelY + (int)(480 * scale),  buttonWidth, buttonHeight);
+        }
+        
+        if (exitButton != null) {
+            exitButton.setBounds(centerPanelX + (centerPanelWidth - buttonWidth) / 2,  centerPanelY + (int)(560 * scale),  buttonWidth, buttonHeight);
+        }
+        
+        if (soundControlPanel != null) {
+            int controlPanelWidth = (int) (220 * scale);
+            int controlPanelHeight = (int) (60 * scale);
+            
+            soundControlPanel.setBounds(centerPanelX + centerPanelWidth - controlPanelWidth - (int)(20 * scale),  centerPanelY + (int)(40 * scale),  controlPanelWidth, controlPanelHeight);
+            
+            if (soundToggleButton != null) {
+                int soundButtonWidth = (int) (120 * scale);
+                int soundButtonHeight = (int) (50 * scale);
+                soundToggleButton.setBounds(0, 0, soundButtonWidth, soundButtonHeight);
+            }
+            
+            if (volumeUpButton != null && volumeDownButton != null) {
+                int volumeButtonWidth = (int) (50 * scale);
+                int volumeButtonHeight = (int) (25 * scale);
+                
+                volumeUpButton.setBounds((int)(130 * scale), 0, volumeButtonWidth, volumeButtonHeight);
+                volumeDownButton.setBounds((int)(130 * scale), (int)(30 * scale), volumeButtonWidth, volumeButtonHeight);
+            }
+        }
+        
+        if (versionLabel != null) {
+            int versionFontSize = (int) (26 * scale);
+            versionFontSize = Math.max(14, versionFontSize);
+            versionLabel.setFont(new Font("Lato", Font.PLAIN, versionFontSize));
+            versionLabel.setBounds(centerPanelX, centerPanelY + centerPanelHeight - (int)(70 * scale), centerPanelWidth, (int)(70 * scale));
+        }
+        
+        revalidate();
+        repaint();
     }
 }
